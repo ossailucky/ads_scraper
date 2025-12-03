@@ -1,0 +1,8 @@
+node_modules/
+dist/
+ads_data/
+test_ads_data/
+*.log
+.env
+.DS_Store
+coverage/
